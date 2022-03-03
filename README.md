@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhop86
+- 👋 Hi, I’m @dhop86 aka Daniel
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web development
