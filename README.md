@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dhop86 aka Daniel
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Client-Side JavaScript
-- 📚 I've already learned HTML5, CSS3, and core JS
+- 📚 Foundational knowledge of HTML5, CSS3, and Client-Side JavaScript
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me - https://www.linkedin.com/in/danielmhopper/
 
