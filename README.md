@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhop86 aka Daniel
 - 👀 I’m interested in web development
 - 📚 Foundational knowledge of HTML5, CSS3, and Client-Side JavaScript
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning TypeScript & React
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me - https://www.linkedin.com/in/danielmhopper/
 
